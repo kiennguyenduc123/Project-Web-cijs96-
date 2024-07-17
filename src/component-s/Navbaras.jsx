@@ -46,7 +46,7 @@ const Navbaras = (props) => {
                         <li><Link to="/children"  style={{textDecoration: "none", color: "black"}}>Đồ Bé Gái</Link></li>
                     </ul>
                 </div>
-                <div className='input_nav'>
+                <div className='input_navz'>
                     <input 
                         type="text" 
                         placeholder='Bạn Muốn Tìm gì...'

@@ -48,7 +48,7 @@ const Navbarss = (props) => {
                         <li><Link to="/children"  style={{textDecoration: "none", color: "black"}}>Đồ Bé Gái</Link></li>
                     </ul>
                 </div>
-                <div className='input_nav'>
+                <div className='input_nava'>
                     <input 
                         type="text" 
                         placeholder='Bạn Muốn Tìm gì...'
